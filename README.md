@@ -1,5 +1,3 @@
-### Eden AI Coding Challenge
-
 This project contains a full stack application built using React+Tailwindcss for the frontend and Nodejs express server for the backend.
 
 #### Steps to run the project:
